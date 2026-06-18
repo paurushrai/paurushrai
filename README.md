@@ -90,8 +90,8 @@ A frontend-leaning full-stack engineer with **~5 years** architecting enterprise
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paurushrai&layout=donut&theme=transparent&title_color=58A6FF&text_color=c9d1d9&hide_border=true&langs_count=10" alt="top languages" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paurushrai&theme=github_dark&utcOffset=5.5" alt="when I code" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paurushrai&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&hide_border=true&langs_count=8&card_width=480" alt="top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paurushrai&theme=github_dark&utcOffset=5.5" alt="when I code" />
 
 <img width="98%" src="https://streak-stats.demolab.com?user=paurushrai&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true" alt="streak" />
 
