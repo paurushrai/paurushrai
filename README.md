@@ -97,7 +97,7 @@ A frontend-leaning full-stack engineer with **~5 years** architecting enterprise
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=paurushrai&theme=react-dark&bg_color=00000000&color=58A6FF&line=58A6FF&point=c9d1d9&hide_border=true&area=true" alt="activity graph" />
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=paurushrai&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paurushrai&theme=github_dark" alt="repos per language" />
 
 </div>
 
