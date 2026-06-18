@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.paurushrai.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Frontend-leaning+full-stack+engineer;Enterprise+B2B+%E2%80%A2+AI+workflows+%E2%80%A2+Dev+tooling;I+ship+things+that+move+the+needle" alt="Paurush Rai" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=660&lines=Frontend-leaning+full-stack+engineer;Enterprise+B2B+%E2%80%A2+AI+workflows+%E2%80%A2+Dev+tools;I+ship+things+that+move+the+needle" alt="Paurush Rai" />
 </a>
 
 <p>
@@ -73,24 +73,16 @@ A frontend-leaning full-stack engineer with **~5 years** architecting enterprise
 
 ---
 
-### 📦 Featured projects
+### 🚀 Highlights
 
-<div align="center">
+> 🔒 Most of my best work lives in private / enterprise repos. A few that measurably moved the needle:
 
-<a href="https://github.com/paurushrai/lti-1.3-node-nextjs-starter">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=paurushrai&repo=lti-1.3-node-nextjs-starter&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide_border=true" alt="LTI 1.3 starter" />
-</a>
-<a href="https://github.com/paurushrai/monostart-chrome-extension">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=paurushrai&repo=monostart-chrome-extension&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide_border=true" alt="MonoStart" />
-</a>
-<a href="https://github.com/paurushrai/portfolio">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=paurushrai&repo=portfolio&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide_border=true" alt="Portfolio" />
-</a>
-
-</div>
-
-> 🔒 A lot of my best work lives in private/enterprise repos. A few highlights:
-> **MetaNotes** — AI meeting notetaker (record → transcribe → summarise), **~$24K/yr** saved · **Testlify LTI plugin** — drove **20–30%** enterprise adoption · **Jira timesheet plugin** — **$9K+/yr** saved · marketing-site perf **Lighthouse 49→87**.
+- **MetaNotes** — built an AI meeting notetaker (record → transcribe → summarise), saving **~$24K / year**
+- **Testlify LTI plugin** — architected the LMS integration that drove **20–30%** growth in enterprise adoption
+- **AI interview workflows** (Chat / Voice / Video) — cut interviewer effort **40%+**, contributing to **20–30%** revenue growth
+- **Jira timesheet plugin** — internal cost-allocation tool saving **$9K+ / year**
+- **VS Code time-tracker** — auto-logs coding time by Git branch into Jira, cutting manual tracking **60–70%**
+- **Marketing-site performance** — lifted Lighthouse from **49 → 87** (mobile) and **53 → 91** (desktop)
 
 ---
 
@@ -98,8 +90,8 @@ A frontend-leaning full-stack engineer with **~5 years** architecting enterprise
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=paurushrai&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide_border=true&include_all_commits=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paurushrai&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&hide_border=true&langs_count=8" alt="top langs" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paurushrai&layout=donut&theme=transparent&title_color=58A6FF&text_color=c9d1d9&hide_border=true&langs_count=10" alt="top languages" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paurushrai&theme=github_dark&utcOffset=5.5" alt="when I code" />
 
 <img width="98%" src="https://streak-stats.demolab.com?user=paurushrai&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true" alt="streak" />
 
