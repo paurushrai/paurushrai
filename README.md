@@ -95,9 +95,9 @@ A frontend-leaning full-stack engineer with **~5 years** architecting enterprise
 
 <img width="98%" src="https://streak-stats.demolab.com?user=paurushrai&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true" alt="streak" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=paurushrai&theme=react-dark&bg_color=00000000&color=58A6FF&line=58A6FF&point=c9d1d9&hide_border=true&area=true" alt="activity graph" />
+<!-- <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=paurushrai&theme=react-dark&bg_color=00000000&color=58A6FF&line=58A6FF&point=c9d1d9&hide_border=true&area=true" alt="activity graph" /> -->
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paurushrai&theme=github_dark" alt="repos per language" />
+<!-- <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paurushrai&theme=github_dark" alt="repos per language" /> -->
 
 </div>
 
