@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.paurushrai.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=660&lines=Frontend-leaning+full-stack+engineer;Enterprise+B2B+%E2%80%A2+AI+workflows+%E2%80%A2+Dev+tools;I+ship+things+that+move+the+needle" alt="Paurush Rai" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend-leaning+full-stack+engineer;Enterprise+B2B+%E2%80%A2+AI+workflows+%E2%80%A2+Dev+tooling;I+ship+things+that+move+the+needle" alt="Paurush Rai" />
 </a>
 
 <p>
