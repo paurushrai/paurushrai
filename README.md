@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="assets/itachi.gif" width="100%" alt="Itachi" />
+<img src="assets/jujutsu-kaisen.gif" width="100%" alt="Jujutsu Kaisen" />
 
 ---
 
