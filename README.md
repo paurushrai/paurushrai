@@ -12,6 +12,8 @@
 
 </div>
 
+<img src="assets/itachi.gif" width="100%" alt="Itachi" />
+
 ---
 
 ### 👋 About me
