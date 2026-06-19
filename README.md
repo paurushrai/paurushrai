@@ -73,19 +73,6 @@ A frontend-leaning full-stack engineer with **~5 years** architecting enterprise
 
 ---
 
-### 🚀 Highlights
-
-> 🔒 Most of my best work lives in private / enterprise repos. A few that measurably moved the needle:
-
-- **MetaNotes** — built an AI meeting notetaker (record → transcribe → summarise), saving **~$24K / year**
-- **Testlify LTI plugin** — architected the LMS integration that drove **20–30%** growth in enterprise adoption
-- **AI interview workflows** (Chat / Voice / Video) — cut interviewer effort **40%+**, contributing to **20–30%** revenue growth
-- **Jira timesheet plugin** — internal cost-allocation tool saving **$9K+ / year**
-- **VS Code time-tracker** — auto-logs coding time by Git branch into Jira, cutting manual tracking **60–70%**
-- **Marketing-site performance** — lifted Lighthouse from **49 → 87** (mobile) and **53 → 91** (desktop)
-
----
-
 ### 📊 GitHub stats
 
 <div align="center">
