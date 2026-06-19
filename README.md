@@ -1,3 +1,5 @@
+<img src="assets/jujutsu-kaisen.gif" width="100%" alt="Jujutsu Kaisen" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend-leaning+full-stack+engineer;Enterprise+B2B+%E2%80%A2+AI+workflows+%E2%80%A2+Dev+tooling;I+ship+things+that+move+the+needle" alt="Paurush Rai" />
@@ -11,8 +13,6 @@
 </p>
 
 </div>
-
-<img src="assets/jujutsu-kaisen.gif" width="100%" alt="Jujutsu Kaisen" />
 
 ---
 
