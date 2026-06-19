@@ -23,7 +23,7 @@ const paurush = {
   role:      "Senior Software Engineer @ Testlify",
   based:     "India 🇮🇳  •  open to interesting problems",
   focus:     ["Enterprise B2B platforms", "AI-driven apps", "Developer tooling"],
-  shipped:   ["LMS / LTI integrations", "VS Code & Jira plugins", "Browser extensions"],
+  shipped:   ["Web Apps, Mobile Apps, LMS / LTI integrations", "VS Code & Jira plugins", "Browser extensions"],
   obsessedWith: ["performance", "clean architecture", "things that measurably matter"],
 };
 ```
