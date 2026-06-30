@@ -18,16 +18,6 @@
 
 ### 👋 About me
 
-```ts
-const paurush = {
-  role:      "Senior Software Engineer @ Testlify",
-  based:     "India 🇮🇳  •  open to interesting problems",
-  focus:     ["Enterprise B2B platforms", "AI-driven apps", "Developer tooling"],
-  shipped:   ["Web Apps, Mobile Apps, LMS / LTI integrations", "VS Code & Jira plugins", "Browser extensions"],
-  obsessedWith: ["performance", "clean architecture", "things that measurably matter"],
-};
-```
-
 A frontend-leaning full-stack engineer with **~5 years** architecting enterprise web platforms, AI workflows, and internal tools that pay for themselves. I like the friction of learning new tools in real contexts — usually mid-side-project, automating something tedious.
 
 ---
