@@ -18,7 +18,7 @@
 
 ### 👋 About me
 
-A frontend-leaning full-stack engineer with **~5 years** building enterprise web platforms, AI workflows, and internal tools that actually earn their keep. I learn tools best by throwing them at real problems — usually halfway through a side project, automating something I got tired of doing by hand.
+A frontend-leaning full-stack engineer with **~5 years** building enterprise web platforms, AI workflows, and internal tools that actually earn their keep. I learn tools best by throwing them at real problems, usually halfway through a side project, automating something I got tired of doing by hand.
 
 ---
 
