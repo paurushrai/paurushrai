@@ -1,4 +1,4 @@
-<img src="assets/jujutsu-kaisen.gif" width="100%" alt="Jujutsu Kaisen" />
+<img src="assets/IMG_0992.jpeg" width="100%" alt="Jujutsu Kaisen" />
 
 <div align="center">
 
