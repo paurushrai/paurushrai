@@ -39,8 +39,6 @@ A Senior Product Engineer with **5+ years** building enterprise web platforms, A
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paurushrai&theme=github_dark" alt="profile summary" />
-
 <table align="center">
   <tr>
     <td valign="top" width="50%">
