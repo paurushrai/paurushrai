@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Product+Engineer;Enterprise+B2B+%E2%80%A2+AI+workflows+%E2%80%A2+Dev+tooling;I+ship+things+that+move+the+needle" alt="Paurush Rai" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer+%26+Frontend+Expert;Enterprise+B2B+%E2%80%A2+AI+workflows+%E2%80%A2+Dev+tooling;I+ship+things+that+move+the+needle" alt="Paurush Rai" />
 
 <p>
   <a href="https://www.paurushrai.in"><img src="https://img.shields.io/badge/Portfolio-paurushrai.in-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -18,7 +18,7 @@
 
 ### 👋 About me
 
-A Senior Product Engineer with **5+ years** building enterprise web platforms, AI workflows, and internal tools that actually earn their keep. I learn tools best by throwing them at real problems, usually halfway through a side project, automating something I got tired of doing by hand.
+A Senior Frontend Engineer with **5+ years** building enterprise web platforms, AI workflows, and internal tools that actually earn their keep. I learn tools best by throwing them at real problems, usually halfway through a side project, automating something I got tired of doing by hand.
 
 ---
 
@@ -45,15 +45,7 @@ A Senior Product Engineer with **5+ years** building enterprise web platforms, A
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paurushrai&theme=github_dark" alt="top languages" />
     </td>
     <td valign="top" width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paurushrai&theme=github_dark" alt="most used languages" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paurushrai&theme=github_dark" alt="contribution stats" />
-    </td>
-    <td valign="top" width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paurushrai&theme=github_dark&utcOffset=5.5" alt="when I code" />
     </td>
   </tr>
 </table>
