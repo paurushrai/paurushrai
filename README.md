@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;Enterprise+B2B+%E2%80%A2+AI+workflows+%E2%80%A2+Dev+tooling;I+ship+things+that+move+the+needle" alt="Paurush Rai" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Fullstack+Engineer;Enterprise+B2B+%E2%80%A2+AI+workflows+%E2%80%A2+Dev+tooling;I+ship+things+that+move+the+needle" alt="Paurush Rai" />
 
 <p>
   <a href="https://www.paurushrai.in"><img src="https://img.shields.io/badge/Portfolio-paurushrai.in-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -18,7 +18,7 @@
 
 ### 👋 About me
 
-A Senior Frontend Engineer with **5+ years** building enterprise web platforms, AI workflows, and internal tools that actually earn their keep. I learn tools best by throwing them at real problems, usually halfway through a side project, automating something I got tired of doing by hand.
+A Senior Fullstack Engineer with **5+ years** building enterprise web platforms end to end — frontend, backend, and the infra between — plus AI workflows and internal tools that actually earn their keep. I learn tools best by throwing them at real problems, usually halfway through a side project, automating something I got tired of doing by hand.
 
 ---
 
